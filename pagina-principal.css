@@ -1,0 +1,70 @@
+
+h1{
+    text-align: center;
+   background-color: red;
+    color: white;   
+    margin-top:30spx;
+    margin-left: 500px;
+    margin-bottom: 5px;
+    width: 900px;
+    font-size: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+table{
+    width: 500px;
+    height: 100px;
+    border-radius: 1px;
+    color: red;
+    text-decoration: double;
+    font-size: 30px;
+    font-weight: bold;
+}
+h2{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 100px;
+}
+
+#html5{
+    font-size: 30px;
+    font-family: sans-serif;
+    color:orange ;
+    background-color: black;
+    margin-top:35spx;
+    margin-right: 1650px;
+    margin-left: 80px;
+    margin-bottom: 50px;
+   
+}
+
+
+#css{
+    margin-left: 45px;
+}
+
+#css3{
+    font-size: 30px;
+    font-family: sans-serif;
+    color:rgb(0, 119, 255) ;
+    background-color: black;
+    margin-top:35spx;
+    margin-right: 1650px;
+    margin-left: 80px;
+    margin-bottom: 50px;
+
+}
+#java{
+    margin-left: 50px;
+}
+#java1{
+    font-size: 30px;
+    font-family: sans-serif;
+    color:rgb(207, 241, 10) ;
+    background-color: black;
+    margin-top:35spx;
+    margin-right: 1650px;
+    margin-left: 80px;
+    margin-bottom: 50px;
+
+}
