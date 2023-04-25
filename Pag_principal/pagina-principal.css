@@ -29,15 +29,18 @@ h2{
 #html5{
     font-size: 30px;
     font-family: sans-serif;
-    color:orange ;
-    background-color: black;
+    color:rgb(235, 227, 212) ;
+    background-color: rgba(219, 64, 3, 0.856);
     margin-top:35spx;
     margin-right: 1650px;
     margin-left: 80px;
     margin-bottom: 50px;
    
 }
-
+a{
+    color:black;
+    text-decoration: none;
+}
 
 #css{
     margin-left: 45px;
@@ -47,7 +50,7 @@ h2{
     font-size: 30px;
     font-family: sans-serif;
     color:rgb(0, 119, 255) ;
-    background-color: black;
+    background-color: rgb(0, 162, 255);
     margin-top:35spx;
     margin-right: 1650px;
     margin-left: 80px;
@@ -61,7 +64,7 @@ h2{
     font-size: 30px;
     font-family: sans-serif;
     color:rgb(207, 241, 10) ;
-    background-color: black;
+    background-color:rgba(247, 194, 22, 0.911);
     margin-top:35spx;
     margin-right: 1650px;
     margin-left: 80px;
